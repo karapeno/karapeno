@@ -1,7 +1,7 @@
 # Hi There, I'm karapeno
 ## This is my first Github Repository
 ***Guess What?I'm currently learning git,javascript,python and algorithm***
-## I'm interested in ##
+## 🎉I'm interested in🎉 ##
 ***Dumbass memes,DOOM,Low Level Developement***
 ## Recent Stat ##
 <p align="center">
