@@ -33,7 +33,7 @@ I'm currently learning:
 - I like solving **algorithm challenges** and pushing the limits of my problem-solving skills.
 
 ## 💬 Let's Connect:
-- [Twitter](https://twitter.com/karapeno) 🐦
+- [Twitter](https://twitter.com/kalajalapeno) 🐦
 - [LinkedIn](https://linkedin.com/in/karapeno) 💼
 - [My Portfolio](https://karapeno.dev) 🌐
 
@@ -46,5 +46,5 @@ I'm currently learning:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Currently+Learning+Git%2C+JavaScript%2C+Python%2C+and+Algorithms!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Git%2C+JavaScript%2C+Python%2C+and+Algorithms!" alt="Typing animation" />
 </p>
