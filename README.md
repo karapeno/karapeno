@@ -39,11 +39,8 @@ I'm currently learning:
 
 ---
 
-### 🚀 Fun Animation to Keep Things Lively!
+### 🚀 Fun Animation !
 
-We can add some moving elements to spice up your profile. Here's a simple animated text or a GIF:
-
-```html
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4ZTY4N2xvZHpyYWU2bXc4MGRna29xNm1lYTVvaGYxZHVhNnVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsKjvlTb3xY9Mw8Jpf/giphy.webp" alt="DOOM Animated GIF" width="300" />
 </p>
