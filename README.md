@@ -39,8 +39,7 @@ I'm currently learning:
 
 ---
 
-## My Devices
-
+## 💻 My Devices：
 - **Thinkpad X230(Main)**
 - **Raspberry pi A+ V1.1**
 - **Raspberry pi pico**
