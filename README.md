@@ -45,7 +45,7 @@ I'm currently learning:
 - **Raspberry pi A+ V1.1**
 - **Raspberry pi pico**
 - **Nintendo Switch**
-- **HP OMEN 15*
+- **HP OMEN 15**
 
 ---
 
